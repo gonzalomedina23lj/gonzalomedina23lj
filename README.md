@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone 👋
 
 <!--
 **gonzalomedina23lj/gonzalomedina23lj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
